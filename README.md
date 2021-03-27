@@ -4,7 +4,7 @@
 
 <center><h5>🦆 Curto patos! 😙</h5></center> 
 
-<center><img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.lowgif.com%2F83161ae44e0be997.html&psig=AOvVaw3m4uVqO7hEzjzWkwYFqOVX&ust=1616894500715000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCE28Wnz-8CFQAAAAAdAAAAABAJ"></center>
+<img align="center" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.lowgif.com%2F83161ae44e0be997.html&psig=AOvVaw3Pai_qoQLXEfWt66HdgO6Y&ust=1616894647760000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi48oqoz-8CFQAAAAAdAAAAABAJ" alt="Carregou o gif não!!!">
 
 ***"Lavo as minhas mãos na inocência; e assim andarei, Senhor, ao redor do teu altar. Para publicar com voz de louvor, e contar todas as tuas maravilhas."***
 

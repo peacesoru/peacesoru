@@ -1,4 +1,4 @@
-<center><h1>💻 Hi there, I'm Soru. 👋</h1></center>
+<center><h1>💻 Hi there, I'm Soru ou Lucas! 👋</h1></center>
 
 <center><h3>🧐 Curto estudar C++ e bater um papo com os amigos no discord. 😊</h3></center> 
 
